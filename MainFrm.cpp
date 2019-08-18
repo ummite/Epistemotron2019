@@ -1,7 +1,4 @@
 
-// MainFrm.cpp : implementation of the CMainFrame class
-//
-
 #include "pch.h"
 #include "framework.h"
 #include "Epistemotron2019.h"
